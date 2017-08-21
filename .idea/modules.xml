@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/payroll.iml" filepath="$PROJECT_DIR$/.idea/modules/payroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/payroll_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/payroll_integrationTest.iml" group="payroll" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/payroll_main.iml" filepath="$PROJECT_DIR$/.idea/modules/payroll_main.iml" group="payroll" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/payroll_test.iml" filepath="$PROJECT_DIR$/.idea/modules/payroll_test.iml" group="payroll" />
+    </modules>
+  </component>
+</project>
